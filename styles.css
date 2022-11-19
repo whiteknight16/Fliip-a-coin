@@ -1,7 +1,7 @@
 body{
     margin: 0;
     padding: 0;
-    background-color: #379237;
+    background-color: #D6E4E5;
 }
 
 /* navbar */
@@ -27,7 +27,7 @@ body{
 /* content */
 
 #content h1{
-    color: #F0FF42;
+    color:#497174;
     text-align: center;
     margin-top: 3%;
     font-size: 5rem;
